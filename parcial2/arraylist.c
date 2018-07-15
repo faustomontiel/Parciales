@@ -654,17 +654,14 @@ int al_map(ArrayList* this, int (*pFunc)(void*))
 
 ArrayList* al_filter(ArrayList* this, int(*pFunc)(void*))
 {
-    int tam=this->len(this);
     ArrayList* auxiliarEmpleado = al_newArrayList();
 
-        for(int i=0;i<tam;i++)
+        for(int i=0;i<al_len(this);i++)
         {
             void* elem=this->get(this,i);
 
             if (pFunc(elem) == 1)
             {
-
-                //al_set(auxiliarEmpleado,i,*(this->pElements+i));
                 al_add(auxiliarEmpleado,elem);
             }
         }

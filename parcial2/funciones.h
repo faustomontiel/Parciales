@@ -1,4 +1,4 @@
-struct
+typedef struct
 {
     int id;
     char nombre[51];
@@ -6,7 +6,7 @@ struct
     int hora;
     int sueldo;
 
-}typedef eEmpleado;
+} eEmpleado;
 
 eEmpleado* nuevoEmpleado();
 int parser(FILE* pFile, ArrayList* pArrayListEmpleado);

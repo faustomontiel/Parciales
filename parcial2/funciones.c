@@ -272,20 +272,7 @@ int getSueldo(eEmpleado* p)
 {
     return p->sueldo;
 }
-/*
-int calcularHoras(void* empleado)
-{
-    int retorno=0;
-    int horas=getHora(empleado);
 
-        if(horas >120)
-        {
-            retorno=1;
-        }
-
-    return retorno;
-}
-*/
 int calcularHoras(void* empleado)
 {
     int retorno=NULL;

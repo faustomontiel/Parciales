@@ -75,7 +75,7 @@
 	"arraylist.h"
 	"funciones.h"
 
-1531685160 source:c:\users\nelso\downloads\punteros-master\tramitesturnos\parcial2\arraylist.c
+1531685462 source:c:\users\nelso\downloads\punteros-master\tramitesturnos\parcial2\arraylist.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -83,14 +83,14 @@
 
 1531441574 c:\users\nelso\downloads\punteros-master\tramitesturnos\parcial2\arraylist.h
 
-1531685060 source:c:\users\nelso\downloads\punteros-master\tramitesturnos\parcial2\funciones.c
+1531685462 source:c:\users\nelso\downloads\punteros-master\tramitesturnos\parcial2\funciones.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"arraylist.h"
 	"funciones.h"
 
-1531441574 c:\users\nelso\downloads\punteros-master\tramitesturnos\parcial2\funciones.h
+1531685573 c:\users\nelso\downloads\punteros-master\tramitesturnos\parcial2\funciones.h
 
 1531441574 source:c:\users\nelso\downloads\punteros-master\tramitesturnos\parcial2\main.c
 	<stdio.h>
