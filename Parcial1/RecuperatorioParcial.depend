@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1526887590 source:c:\users\nelso\desktop\recuperatorioparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526890958 c:\users\nelso\desktop\recuperatorioparcial\funciones.h
+
+1526933578 source:c:\users\nelso\desktop\recuperatorioparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1526933367 source:c:\users\nelso\desktop\recuperatorioparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<ctype.h>
+
+1526898997 source:c:\users\nelso\desktop\recuperatorioparcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1526948280 source:c:\users\alumno\desktop\recuperatorioparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1526944087 c:\users\alumno\desktop\recuperatorioparcial\funciones.h
+
+1526933902 source:c:\users\alumno\desktop\recuperatorioparcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1526946576 source:c:\users\alumno\desktop\recuperatorioparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526944998 source:c:\users\alumno\desktop\recuperatorioparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<ctype.h>
+
