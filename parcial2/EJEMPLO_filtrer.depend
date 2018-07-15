@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1531417830 source:c:\users\nelso\desktop\ejemplo_filtrer\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+
+1531417909 c:\users\nelso\desktop\ejemplo_filtrer\arraylist.h
+
+1531418137 source:c:\users\nelso\desktop\ejemplo_filtrer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arraylist.h"
+	"funciones.h"
+
+1531417939 c:\users\nelso\desktop\ejemplo_filtrer\funciones.h
+
+1531418154 source:c:\users\nelso\desktop\ejemplo_filtrer\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+	"funciones.h"
+
+1531424167 source:c:\users\alumno\downloads\punteros-master\tramitesturnos\ejemplos\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+
+1531424167 c:\users\alumno\downloads\punteros-master\tramitesturnos\ejemplos\arraylist.h
+
+1531424167 source:c:\users\alumno\downloads\punteros-master\tramitesturnos\ejemplos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+	"funciones.h"
+
+1531424167 c:\users\alumno\downloads\punteros-master\tramitesturnos\ejemplos\funciones.h
+
+1531424167 source:c:\users\alumno\downloads\punteros-master\tramitesturnos\ejemplos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arraylist.h"
+	"funciones.h"
+
+1531434617 source:c:\users\alumno\desktop\ejemplos\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+
+1531434061 c:\users\alumno\desktop\ejemplos\arraylist.h
+
+1531438977 source:c:\users\alumno\desktop\ejemplos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arraylist.h"
+	"funciones.h"
+
+1531438971 c:\users\alumno\desktop\ejemplos\funciones.h
+
+1531439226 source:c:\users\alumno\desktop\ejemplos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+	"funciones.h"
+
+1531436745 source:c:\users\alumno\desktop\ejemplos\getters.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+	"funciones.h"
+
